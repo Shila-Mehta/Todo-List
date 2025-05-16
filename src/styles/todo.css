@@ -1,0 +1,62 @@
+
+.todo-form{
+    display: flex;
+    padding:2rem;
+    background-color: rgb(196, 191, 191);
+    border: 1px solid  rgb(238, 226, 226);
+    justify-content: space-evenly;
+}
+
+.done-btn{
+    border:none;
+   background-color: rgb(208, 168, 241);
+    padding:1.2rem 2rem;
+    box-shadow: 4px 1px 6px rgb(174, 110, 226);
+    transition: box-shadow 0.3s ease-out;
+}
+
+.done-btn:hover{
+      box-shadow: 4px 1px 15px rgb(168, 92, 230);
+}
+
+
+.new-todo{
+    border:none;
+    background-color: rgb(238, 221, 247);
+    padding:1.2rem 2rem;
+    box-shadow: 4px 1px 6px black;
+    transition: box-shadow 0.3s ease-out;
+}
+
+.new-todo:hover{
+    box-shadow: 4px 1px 15px black;
+}
+
+
+.todo-card-container{
+    display: flex;
+    padding:2rem;
+     background-color:rgb(13, 13, 58);
+     border:4px solid white;
+      color:rgb(125, 125, 133);
+    justify-content: space-between;
+    margin-bottom: 20px;
+    transition: transform 0.3s ease;
+}
+
+.todo-card-container:hover{
+    transform: translateY(2px) scale(1.01);
+}
+
+.todo-card-edit-btn{
+    padding:1.2rem 2rem;
+    background-color: rgb(238, 221, 247);
+    border:none;
+
+}
+
+.todo-del-btn{
+    padding:1.2rem 2rem;
+    background-color: rgb(238, 221, 247);
+    border:none;
+}
