@@ -21,7 +21,7 @@ Manage your daily tasks efficiently with a clean and intuitive interface.
 
 ## Live Demo (https://shila-mehta.github.io/Todo-List/)
 
-🖼️ Project Screen shots :
+## 🖼️ Project Screen shots :
 
 # Projects List View
 ![alt text](<shila-mehta.github.io_Todo-List_ (1).png>)
@@ -37,11 +37,16 @@ Manage your daily tasks efficiently with a clean and intuitive interface.
 ![alt text](<shila-mehta.github.io_Todo-List_ (4).png>)
 
 ## 🛠️ Tech Stack
+
 Frontend	HTML5, CSS3, JavaScript (ES6)
+
 Storage	localStorage API
+
 Layout	Flexbox / CSS Grid, Responsive Design
+
 Version Control	Git & GitHub
-💻 Installation & Usage
+
+## 💻 Installation & Usage
 
 # Clone the repository:
 git clone https://github.com/Shila-Mehta/Todo-List.git
@@ -133,7 +138,7 @@ All tasks are stored in localStorage — so your tasks will remain even after re
     └── webpack.config.js
 ```
 
-🚀 Future Enhancements
+## 🚀 Future Enhancements
 
 🌐 Add task categories or priorities
 
@@ -145,7 +150,7 @@ All tasks are stored in localStorage — so your tasks will remain even after re
 
 🎨 Dark / Light mode toggle
 
-👩‍💻 Author
+## 👩‍💻 Author
 
 Nimra Abdul Jabbar
 
